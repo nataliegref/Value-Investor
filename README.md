@@ -1,7 +1,7 @@
 
 # Value Imvestor
 
-## Background:
+## Problem statement:
 
 We are a portfolio investment company and we make investments in the emerging markets around the world. Our company profits by investing in profitable companies, buying, holding and selling company stocks based on value investing principles.
 
