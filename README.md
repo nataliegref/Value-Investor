@@ -1,5 +1,5 @@
 
-# Value Imvestor
+# Value Investor
 
 ## Problem statement:
 
